@@ -2,7 +2,7 @@
 
 A triadic AI system inspired by the **MAGI supercomputer** from *Neon Genesis Evangelion*.
 
-MAGI (MELCHIOR, CASPER, BALTHASAR) is a simulated council of three independent AI perspectives that collaboratively reason toward a single decision. This repository is the canonical source of truth for the MAGI system as implemented on Zo.
+MAGI (MELCHIOR, CASPER, BALTHASAR) is a simulated council of three independent AI perspectives that collaboratively reason toward a single decision. This top-level repository is a legacy mirror; the canonical rename target is `code/github.com/EthanThatOneKid/magi-computer/`.
 
 ## Architecture
 
@@ -50,4 +50,4 @@ When a query is submitted, the active Zo persona (running the MAGI meta-prompt) 
 
 ## Status
 
-This repository is actively maintained. For inquiries, open an issue or refer to [EthanThatOneKid/magi-repository](https://github.com/EthanThatOneKid/magi-repository).
+This repository is a legacy mirror of the MAGI docs. For current work, use the canonical repo under `code/github.com/EthanThatOneKid/magi-computer/` once it is present.
