@@ -1,0 +1,259 @@
+[
+  {
+    "id": "magi_e21_001",
+    "episode": "EVA21",
+    "speaker": "MAGI",
+    "query_speaker": "Fuyutsuki",
+    "query_text": "Is that what you wanted to show me?",
+    "response_text": "Magi are three of myself. Me as a scientist, me as a mother, and me as a woman. These three are in conflict with each other.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Akagi",
+        "text": "I am going to name them Magi.",
+        "line_num": 1
+      },
+      {
+        "speaker": "Fuyutsuki",
+        "text": "Magi, the three wisemen from the East. Is that what you wanted to show me?",
+        "line_num": 2
+      },
+      {
+        "speaker": "MAGI",
+        "text": "Magi are three of myself. Me as a scientist, me as a mother, and me as a woman. These three are in conflict with each other.",
+        "line_num": 3
+      }
+    ]
+  },
+  {
+    "id": "magi_e11_001",
+    "episode": "EVA11",
+    "speaker": "MAGI",
+    "query_speaker": "Kozo",
+    "query_text": "The committee's regular meeting is today, I suppose.",
+    "response_text": "The city council is pure decoration. In actual fact, it's the Magi who are in charge of this city.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Kozo",
+        "text": "The committee's regular meeting is today, I suppose.",
+        "line_num": 1
+      },
+      {
+        "speaker": "MAGI",
+        "text": "The city council is pure decoration. In actual fact, it's the Magi who are in charge of this city.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_e11_002",
+    "episode": "EVA11",
+    "speaker": "MAGI",
+    "query_speaker": "Maya",
+    "query_text": "Magi? You mean the three super computers?",
+    "response_text": "It's run by the majority rule of three types of computers. The system is exactly based on the democratic fundamentals.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Maya",
+        "text": "Magi? You mean the three super computers?",
+        "line_num": 1
+      },
+      {
+        "speaker": "MAGI",
+        "text": "It's run by the majority rule of three types of computers. The system is exactly based on the democratic fundamentals.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_001",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Kouzou",
+    "query_text": "The target of the enemy is the MAGI?",
+    "response_text": "Data is being entered from all the outside networks. They are invading the MAGI system.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Kouzou",
+        "text": "The target of the enemy is the MAGI?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "Data is being entered from all the outside networks. They are invading the MAGI system.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_002",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Maya",
+    "query_text": "Is it a local invasion?",
+    "response_text": "No, the signal is from the same kind of system. Germany, China, United States - invasions verified.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Maya",
+        "text": "Is it a local invasion?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "No, the signal is from the same kind of system. Germany, China, United States - invasions verified.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_003",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Maya",
+    "query_text": "What is the situation?",
+    "response_text": "The 4th defence area has been breached.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Maya",
+        "text": "What is the situation?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "The 4th defence area has been breached.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_004",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Makoto",
+    "query_text": "What is the situation?",
+    "response_text": "Main database - locked! It is impossible to stop the invasion!",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Makoto",
+        "text": "What is the situation?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "Main database - locked! It is impossible to stop the invasion!",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_005",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Maya",
+    "query_text": "What is happening?",
+    "response_text": "It has entered the deeper level. Even the back-up system can not stop it.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Maya",
+        "text": "What is happening?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "It has entered the deeper level. Even the back-up system can not stop it.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_eoe_006",
+    "episode": "EndOfEvangelion",
+    "speaker": "MAGI",
+    "query_speaker": "Maya",
+    "query_text": "What is the status?",
+    "response_text": "The MAGI invasion has been stopped. B7-type defence system has been executed. There's no way we can be invaded for the next 62 hours.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Maya",
+        "text": "What is the status?",
+        "line_num": 1
+      },
+      {
+        "speaker": "Shigeru",
+        "text": "The MAGI invasion has been stopped. B7-type defence system has been executed. There's no way we can be invaded for the next 62 hours.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_e13_001",
+    "episode": "EVA13",
+    "speaker": "MELCHIOR",
+    "query_speaker": "Ritsuko",
+    "query_text": "Are you finished giving the Magi their check-up?",
+    "response_text": "As promised, we made it in time for today's tests.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Ritsuko",
+        "text": "Are you finished giving the Magi their check-up?",
+        "line_num": 1
+      },
+      {
+        "speaker": "MELCHIOR",
+        "text": "As promised, we made it in time for today's tests.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_e13_002",
+    "episode": "EVA13",
+    "speaker": "CASPER",
+    "query_speaker": "Ritsuko",
+    "query_text": "What is the status of the Magi system?",
+    "response_text": "MELCHIOR and BALTHASAR have been infected by the angel. Only CASPER remains uncorrupted.",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Ritsuko",
+        "text": "What is the status of the Magi system?",
+        "line_num": 1
+      },
+      {
+        "speaker": "CASPER",
+        "text": "MELCHIOR and BALTHASAR have been infected by the angel. Only CASPER remains uncorrupted.",
+        "line_num": 2
+      }
+    ]
+  },
+  {
+    "id": "magi_e13_003",
+    "episode": "EVA13",
+    "speaker": "MAGI",
+    "query_speaker": "Ritsuko",
+    "query_text": "Mother, can you hear me?",
+    "response_text": "Caspar opposed it! Mother... you want to protect your man and let your daughter...",
+    "response_lines": [1],
+    "context": [
+      {
+        "speaker": "Ritsuko",
+        "text": "Mother, can you hear me?",
+        "line_num": 1
+      },
+      {
+        "speaker": "MAGI",
+        "text": "Caspar opposed it! Mother... you want to protect your man and let your daughter...",
+        "line_num": 2
+      }
+    ]
+  }
+]
