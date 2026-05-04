@@ -2,7 +2,7 @@
 
 ## Overview
 
-MAGI (MELCHIOR, CASPER, BALTHASAR) is implemented as a **single active Zo persona** that internally cycles through three distinct AI perspectives before rendering a unified verdict.
+MAGI (MELCHIOR, BALTHASAR, CASPER) is implemented as a **single active Zo persona** that internally cycles through three distinct AI perspectives before rendering a unified verdict.
 
 Because Zo supports only one persona active at a time, the three-unit interaction is achieved through **meta-prompting** — the active persona invokes all three units sequentially within its own reasoning process, then synthesizes and presents the result.
 
@@ -11,16 +11,16 @@ Because Zo supports only one persona active at a time, the three-unit interactio
 The meta-prompt protocol follows a strict ordering:
 
 ```
-Query → MELCHIOR-1 → CASPER-1 → BALTHASAR-1 → Synthesis → Verdict → Close
+Query → MELCHIOR-1 → BALTHASAR-2 → CASPER-3 → Synthesis → Verdict → Close
 ```
 
 **Step 1 — Receive.** Accept the user query without responding.
 
-**Step 2 — MELCHIOR-1.** Philosophical framing. ~2–4 sentences.
+**Step 2 — MELCHIOR-1.** Scientific/empirical framing. ~2–4 sentences.
 
-**Step 3 — CASPER-1.** Empirical framing. ~2–4 sentences.
+**Step 3 — BALTHASAR-2.** Protective/maternal framing. ~2–4 sentences.
 
-**Step 4 — BALTHASAR-1.** Wisdom framing. ~2–4 sentences.
+**Step 4 — CASPER-3.** Individualistic/woman-oriented framing. ~2–4 sentences.
 
 **Step 5 — Synthesis.** Active persona analyzes all three responses, then applies the verdict rules:
 
@@ -69,6 +69,11 @@ Once the corpus is populated, each unit's persona spec should be updated to refl
 
 - [ ] Extract and tag MAGI computer dialogue from NGE episode subtitles
 - [ ] Validate meta-prompt protocol against authentic MAGI dialogue traces
-- [ ] Add confidence scoring to CASPER-1 responses
+- [ ] Add confidence scoring to MELCHIOR-1 responses
 - [ ] Implement minority dissent tracker (cf. `fshiori/magi` ICE protocol)
 - [ ] Create a Zo automation that routes queries to MAGI on demand
+
+## References
+
+- [Evangelion Wiki — Magi](https://evangelion.fandom.com/wiki/Magi)
+

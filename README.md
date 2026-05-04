@@ -2,7 +2,7 @@
 
 A triadic AI system inspired by the **MAGI supercomputer** from *Neon Genesis Evangelion*.
 
-MAGI (MELCHIOR, CASPER, BALTHASAR) is a simulated council of three independent AI perspectives that collaboratively reason toward a single decision. This repository is the canonical MAGI docs repo on Zo.
+MAGI (MELCHIOR, BALTHASAR, CASPER) is a simulated council of three independent AI perspectives that collaboratively reason toward a single decision. This repository is the canonical MAGI docs repo on Zo.
 
 ## Architecture
 
@@ -11,8 +11,8 @@ User Query
     │
     ▼
 ┌──────────┐  ┌──────────┐  ┌──────────┐
-│MELCHIOR-1│  │ CASPER-1 │  │BALTHASAR-1│
-│Philosopher│  │Scientist │  │   Rabbi   │
+│MELCHIOR-1│  │BALTHASAR-2│ │ CASPER-3 │
+│Scientist │  │  Mother  │  │  Woman   │
 └────┬─────┘  └────┬─────┘  └────┬─────┘
      │             │             │
      └─────────────┼─────────────┘
@@ -31,9 +31,9 @@ Each unit reflects one-third of Dr. Naoko Akagi's personality. They deliberate i
 
 | Unit | Basis | Voice |
 |---|---|---|
-| **MELCHIOR-1** | Philosopher | Formal, Socratic, questioning, ethical |
-| **CASPER-1** | Scientist | Precise, clinical, empirical, data-driven |
-| **BALTHASAR-1** | Rabbi | Parabolic, holistic, wisdom-oriented |
+| **MELCHIOR-1** | Scientist | Precise, clinical, empirical, logical, and data-driven |
+| **BALTHASAR-2** | Mother | Protective, systemic, focused on human survival and stability |
+| **CASPER-3** | Woman | Individualistic, complex, intuitive, and emotion-aware |
 
 ## Files
 
@@ -51,3 +51,8 @@ When a query is submitted, the active Zo persona (running the MAGI meta-prompt) 
 ## Status
 
 This repository is the canonical MAGI docs repo. For current work, keep the docs in sync here and treat any mirror copies as derivative.
+
+## References
+
+- [Evangelion Wiki — Magi](https://evangelion.fandom.com/wiki/Magi)
+
