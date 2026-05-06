@@ -56,3 +56,15 @@ This repository is the canonical MAGI docs repo. For current work, keep the docs
 
 - [Evangelion Wiki — Magi](https://evangelion.fandom.com/wiki/Magi)
 
+## Zo Deployment Snapshot
+
+Live Zo personas:
+
+- `MAGI`
+- `TNG Computer`
+- `BMO`
+- `TNG Data`
+- `TNG Riva`
+- `TNG Picard`
+
+All six currently use `scopes: all`. `MAGI` uses `zo:openai/gpt-5.4-mini` and cycles `MELCHIOR-1`, `CASPER-1`, and `BALTHASAR-1` internally.
